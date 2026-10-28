@@ -1,0 +1,47 @@
+p{    
+    font-size: 25px;
+	line-height: 20px;
+	text-align: justify;
+	width: 700px;
+    text-indent: 50px;
+    color: DimGrey
+}
+h3,h2 {
+    color: MidnightBlue;
+    text-align: center;
+	font-size: 20px;
+}
+.c1 {
+    color: SlateGrey
+}
+.c2 {
+    color: DarkSlateGray;
+}
+body {
+    background-color: LightSteelBlue;
+}
+a:link {
+    color: blue;
+}
+a:visited {
+    color: darkblue;
+}
+a:hover {
+    text-decoration: dashed;
+}
+a:active {
+    color: darkblue;
+}
+table {
+    border-width: 3px;
+    background-color:SkyBlue ;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+
+}
+td {
+	width: 100px;
+	height: 50px;
+}
